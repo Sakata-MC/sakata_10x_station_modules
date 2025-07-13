@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 <?xml version="1.0" encoding="utf-8"?>
 <!--Exported by: Michael (192.168.3.65) at 28.06.2021_15-25-58-->
 <macros>
@@ -20,27 +19,4 @@
       <secrecy level="1" />
     </properties>
   </macro>
-=======
-<?xml version="1.0" encoding="utf-8"?>
-<!--Exported by: Michael (192.168.3.65) at 28.06.2021_15-25-58-->
-<macros>
-  <macro name="sakata_10x_storage_par_l_container_01_macro" class="storage">
-    <component ref="storage_par_l_container_01" />
-    <properties>
-      <identification name="{20104,20601}" shortname="{20104,20603}" makerrace="paranid" size="large" description="{20104,20602}" />
-      <cargo max="10000000" tags="container" />
-      <build>
-        <sets>
-          <set ref="factory" />
-          <set ref="headquarters_player" />
-          <set ref="tradestation_paranid" />
-          <set ref="piratebase" />
-        </sets>
-      </build>
-      <explosiondamage value="1000" shield="5000" />
-      <hull max="653000" />
-      <secrecy level="1" />
-    </properties>
-  </macro>
->>>>>>> 9aa0473032e4ace8378d8901b52081ef24732c16
 </macros>
