@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--Exported by: Owen (192.168.3.61) at 07.12.2021_17-57-36-->
+<macros>
+  <macro name="sakata_10x_landmarks_gen_piratestation_02_ring_02_macro" class="habitation">
+    <component ref="landmarks_gen_piratestation_02_ring_02" />
+    <properties>
+      <identification name="10x {20104,103001}" makerrace="argon" description="10x {20104,103002}" />
+      <explosiondamage value="1000" shield="5000" />
+      <hull max="1000000" />
+      <workforce race="argon" capacity="5000" />
+    </properties>
+  </macro>
+</macros>
