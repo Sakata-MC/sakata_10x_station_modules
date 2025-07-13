@@ -1,5 +1,12 @@
+<<<<<<< HEAD
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE icons SYSTEM "icons.dtd" >
 <icons>
 	<icon name="module_*" texture="extensions\z10x_modules_boron\assets\fx\gui\textures\stationmodules\*.tga" height="256" width="256"/>
+=======
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE icons SYSTEM "icons.dtd" >
+<icons>
+	<icon name="module_*" texture="extensions\z10x_modules_boron\assets\fx\gui\textures\stationmodules\*.tga" height="256" width="256"/>
+>>>>>>> 9aa0473032e4ace8378d8901b52081ef24732c16
 </icons>

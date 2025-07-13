@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 <?xml version="1.0" encoding="utf-8"?>
 <!--Exported by: Owen (192.168.3.61) at 07.12.2021_17-57-36-->
 <macros>
@@ -10,4 +11,18 @@
       <workforce race="argon" capacity="5000" />
     </properties>
   </macro>
+=======
+<?xml version="1.0" encoding="utf-8"?>
+<!--Exported by: Owen (192.168.3.61) at 07.12.2021_17-57-36-->
+<macros>
+  <macro name="sakata_10x_landmarks_gen_piratestation_02_ring_02_macro" class="habitation">
+    <component ref="landmarks_gen_piratestation_02_ring_02" />
+    <properties>
+      <identification name="{20104,103001}" makerrace="argon" description="{20104,103002}" />
+      <explosiondamage value="1000" shield="5000" />
+      <hull max="1000000" />
+      <workforce race="argon" capacity="5000" />
+    </properties>
+  </macro>
+>>>>>>> 9aa0473032e4ace8378d8901b52081ef24732c16
 </macros>
