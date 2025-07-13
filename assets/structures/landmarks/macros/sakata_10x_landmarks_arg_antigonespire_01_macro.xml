@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--Exported by: nick (192.168.3.59) on 2023-10-17 17:54:53-->
+<macros>
+  <macro name="sakata_10x_landmarks_arg_antigonespire_01_macro" class="habitation">
+    <component ref="landmarks_arg_antigonespire_01" />
+    <properties>
+      <identification name="{20104,32301}" shortname="{20104,32303}" makerrace="argon" size="extralarge" description="{20104,32302}" />
+      <explosiondamage value="1000" shield="5000" />
+      <hull max="680000" />
+      <workforce race="argon" capacity="20000" />
+    </properties>
+  </macro>
+</macros>
