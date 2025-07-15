@@ -10,8 +10,7 @@
 	<entry name="sakata_10x_landmarks_arg_antigonespire_01_macro" value="extensions\sakata_10x\assets\structures\landmarks\macros\sakata_10x_landmarks_arg_antigonespire_01_macro.xml"/>
 	<entry name="sakata_10x_landmarks_gen_piratestation_02_ring_02_macro" value="extensions\sakata_10x\assets\structures\landmarks\macros\sakata_10x_landmarks_gen_piratestation_02_ring_02_macro.xml"/>
 	<entry name="sakata_10x_landmarks_par_storage_01_macro" value="extensions\sakata_10x\assets\structures\landmarks\macros\sakata_10x_landmarks_par_storage_01_macro.xml"/>
-	<entry name="sakata_10x_landmarks_tel_tradestation_01_ring_inside_01_macro" value="extensions\sakata_10x\assets\structures\landmarks\macros\sakata_10x_landmarks_tel_tradestation_01_ring_inside_01_macro.xml"/>
-	<entry name="sakata_10x_landmarks_tel_tradestation_01_ring_inside_02_macro" value="extensions\sakata_10x\assets\structures\landmarks\macros\sakata_10x_landmarks_tel_tradestation_01_ring_inside_02_macro.xml"/>
+
 	<entry name="sakata_10x_prod_arg_foodrations_macro" value="extensions\sakata_10x\assets\structures\production\macros\sakata_10x_prod_arg_foodrations_macro.xml"/>
 	<entry name="sakata_10x_prod_arg_meat_macro" value="extensions\sakata_10x\assets\structures\production\macros\sakata_10x_prod_arg_meat_macro.xml"/>
 	<entry name="sakata_10x_prod_arg_medicalsupplies_macro" value="extensions\sakata_10x\assets\structures\production\macros\sakata_10x_prod_arg_medicalsupplies_macro.xml"/>
@@ -74,6 +73,7 @@
 	<entry name="sakata_10x_prod_ter_scrap_recycler_macro" value="extensions\sakata_10x\assets\structures\production\macros\sakata_10x_prod_ter_scrap_recycler_macro.xml"/>
 	<entry name="sakata_10x_prod_ter_siliconcarbide_macro" value="extensions\sakata_10x\assets\structures\production\macros\sakata_10x_prod_ter_siliconcarbide_macro.xml"/>
 	<entry name="sakata_10x_prod_ter_stimulants_macro" value="extensions\sakata_10x\assets\structures\production\macros\sakata_10x_prod_ter_stimulants_macro.xml"/>
+
 	<entry name="sakata_10x_storage_arg_l_container_01_macro" value="extensions\sakata_10x\assets\structures\storage\macros\sakata_10x_storage_arg_l_container_01_macro.xml"/>
 	<entry name="sakata_10x_storage_arg_l_liquid_01_macro" value="extensions\sakata_10x\assets\structures\storage\macros\sakata_10x_storage_arg_l_liquid_01_macro.xml"/>
 	<entry name="sakata_10x_storage_arg_l_solid_01_macro" value="extensions\sakata_10x\assets\structures\storage\macros\sakata_10x_storage_arg_l_solid_01_macro.xml"/>
@@ -95,5 +95,7 @@
 	<entry name="sakata_10x_storage_ter_l_container_01_macro" value="extensions\sakata_10x\assets\structures\storage\macros\sakata_10x_storage_ter_l_container_01_macro.xml"/>
 	<entry name="sakata_10x_storage_ter_l_liquid_01_macro" value="extensions\sakata_10x\assets\structures\storage\macros\sakata_10x_storage_ter_l_liquid_01_macro.xml"/>
 	<entry name="sakata_10x_storage_ter_l_solid_01_macro" value="extensions\sakata_10x\assets\structures\storage\macros\sakata_10x_storage_ter_l_solid_01_macro.xml"/>
-	<entry name="sakata_10x_welfare_gen_gamblinghall_01_macro" value="extensions\sakata_10x_\assets\structures\welfare\macros\sakata_10x_welfare_gen_gamblinghall_01_macro.xml"/>
+
+	<entry name="sakata_10x_welfare_bor_artacademy_01_macro.xml" value="extensions\sakata_10x_\assets\structures\welfare\macros\sakata_10x_welfare_bor_artacademy_01_macro.xml"/>
+	<entry name="sakata_10x_welfare_gen_casino_01_macro" value="extensions\sakata_10x_\assets\structures\welfare\macros\sakata_10x_welfare_gen_casino_01_macro.xml"/>
 </index>

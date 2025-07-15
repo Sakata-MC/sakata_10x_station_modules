@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!--Exported by: Michael (192.168.3.55) at 27.08.2021_12-09-16-->
 <macros>
-	<macro name="sakata_10x_welfare_gen_gamblinghall_01_macro" class="welfaremodule">
-		<component ref="welfare_gen_gamblinghall_01"/>
+	<macro name="sakata_10x_welfare_gen_casino_01_macro" class="welfaremodule">
+		<component ref="welfare_gen_casino_01"/>
 		<properties>
-			<identification name="10x {20104,110201}" shortname="10x {20104,110203}" description="10x {20104,110202}"/>
+			<identification name="10x {20104,110101}" shortname="10x {20104,110103}" description="10x {20104,110102}"/>
 			<build>
 				<sets>
 					<set ref="factory"/>
@@ -13,8 +13,8 @@
 				</sets>
 			</build>
 			<explosiondamage value="1000" shield="5000"/>
-			<hull max="100000"/>
-			<workforce growthrate="0.2"/>
+			<hull max="250000"/>
+			<workforce growthrate="5"/>
 		</properties>
 	</macro>
 </macros>

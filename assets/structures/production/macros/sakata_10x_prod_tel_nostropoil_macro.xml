@@ -15,9 +15,9 @@
       <hull max="276000" />
       <secrecy level="2" />
       <production wares="nostropoil">
-        <queue ware="nostropoil" method="teladi" />
+        <queue ware="nostropoil" method="sakata_10x_teladi" />
       </production>
-      <workforce max="120" />
+      <workforce max="1200" />
     </properties>
   </macro>
 </macros>

@@ -15,9 +15,9 @@
       <hull max="133000" />
       <secrecy level="2" />
       <production wares="foodrations">
-        <queue ware="foodrations" method="argon" />
+        <queue ware="foodrations" method="sakata_10x_argon" />
       </production>
-      <workforce max="90" />
+      <workforce max="900" />
     </properties>
   </macro>
 </macros>
